@@ -8,7 +8,7 @@
 
 ### TESTED ON :
 
- Termux
+  Termux
 
 ### INSTALLATION [Termux]
 ```
@@ -18,7 +18,7 @@ $ apt install git
 $ git clone https://github.com/abdulllah010/KaliAndroid
 $ cd KaliAndroid
 $ chmod +x KaliAndroid.sh
-$ bash KaliAndroid.sh
+$ bash KaliAndroid.sh (or) ./KaliAndroid.sh
 
 ```
 
